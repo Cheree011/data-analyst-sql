@@ -1,19 +1,19 @@
 # data-analyst-sql
 # SQL Basics (Filtering, Sorting & Aggregations)
 
-## 📌 Objective
+## Objective
 The objective of this task is to practice basic SQL operations such as filtering, sorting, and aggregation on a sales dataset. This task helps in building confidence with real-world SQL querying used by data analysts.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - SQLite (Command Line)
 - Command Prompt (CMD)
 - GitHub (for submission)
 
 ---
 
-## 📂 Dataset Used
+## Dataset Used
 - File name: `sales_data_task3.csv`
 - Records: 100+
 - Columns:
@@ -27,7 +27,7 @@ The objective of this task is to practice basic SQL operations such as filtering
 
 ---
 
-## 🧪 SQL Operations Performed
+## SQL Operations Performed
 
 ### 1. Data Verification
 - Checked total number of records
@@ -58,13 +58,13 @@ The objective of this task is to practice basic SQL operations such as filtering
 
 ---
 
-## 📊 Output Generated
+## Output Generated
 - File name: `sales_summary.csv`
 - Contains category-wise total sales generated using aggregation queries
 
 ---
 
-## 📁 Files Included
+## Files Included
 - `sales_data_task3.csv` – Original dataset
 - `queries_task3.sql` – SQL queries written for the task
 - `sales_summary.csv` – Exported summary report
